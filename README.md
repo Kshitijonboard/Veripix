@@ -91,18 +91,10 @@ Compare performance against:
 
 ---
 
-## 🧠 Explainability (Optional)
+## 🧠 Explainability
 
 - Grad-CAM or Attention maps for visual insight  
 - Helps validate model decisions
-
----
-
-## 🚀 Deployment (Optional)
-
-- Export model using ONNX or TorchScript  
-- Create a real-time Streamlit web app
-
 ---
 
 ## 📄 License
@@ -111,9 +103,8 @@ This project is for academic and research use only.
 
 ---
 
-## 🤝 Acknowledgements
+## 🤝 Aim
 
-Inspired by forensic literature and built using PyTorch and OpenCV.
-
+By analysing the various methods available to date, we are trying to improve the accuracy of the outcome in detection the forgery.
 ---
 
